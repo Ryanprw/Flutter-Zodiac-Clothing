@@ -1,0 +1,45 @@
+{
+    "categories": [
+      {
+        "name": "BOMBERS",
+        "image": "https://www.aelfriceden.com/cdn/shop/files/jpeg_72cb94ae-173c-4c4e-80c1-4331289fe553.jpg",
+        "subcategories": [
+          {
+            "name": "Classic Bombers",
+            "products": [{ "name": "Vintage Bomber", "price": 120 }]
+          }
+        ]
+      },
+      {
+        "name": "PUFFER",
+        "image": "https://www.aelfriceden.com/cdn/shop/files/A-567.jpg",
+        "subcategories": [
+          {
+            "name": "Winter Puffer",
+            "products": [{ "name": "Green Puffer Jacket", "price": 140 }]
+          }
+        ]
+      },
+      {
+        "name": "JACKETS",
+        "image": "https://www.aelfriceden.com/cdn/shop/files/1369.jpg",
+        "subcategories": [
+          {
+            "name": "Denim Jackets",
+            "products": [{ "name": "Classic Denim Jacket", "price": 100 }]
+          }
+        ]
+      },
+      {
+        "name": "HOODIE",
+        "image": "https://www.aelfriceden.com/cdn/shop/files/jpg_47365c08-07a9-451a-a1ba-b6b92b999b41.jpg",
+        "subcategories": [
+          {
+            "name": "Casual Hoodies",
+            "products": [{ "name": "Oversized Hoodie", "price": 90 }]
+          }
+        ]
+      }
+    ]
+  }
+  

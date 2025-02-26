@@ -1,0 +1,115 @@
+{
+  "categories": [
+    {
+      "name": "Top",
+      "subcategories": [
+        {
+          "name": "Hoodies",
+          "products": [
+            {
+              "id": 1,
+              "name": "Mountain Star Hoodie",
+              "price": 69.95,
+              "images": [
+                "https://www.aelfriceden.com/cdn/shop/files/202404282670.jpg",
+                "https://www.aelfriceden.com/cdn/shop/files/7_2024-9-14_a0a3315d-14ca-4c1d-a96c-ce5bcefb3f76.jpg",
+                "https://www.aelfriceden.com/cdn/shop/files/3_2024-9-14_e41a3bf3-f812-4571-996b-0a8d473cb6a3.jpg",
+                "https://www.aelfriceden.com/cdn/shop/files/202404282639.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Shirts",
+          "products": [
+            {
+              "id": 2,
+              "name": "Sea Animal Long Shirt",
+              "price": 76.45,
+              "images": [
+                "https://www.aelfriceden.com/cdn/shop/files/202404283800_abbc34e5-1beb-4643-a70f-76c9b91e0f22.jpg",
+                "https://www.aelfriceden.com/cdn/shop/files/1_13fc0379-4855-4fae-8e29-07ba6316013d.jpg",
+                "https://www.aelfriceden.com/cdn/shop/files/202404283783_c30783a4-7d91-46e6-b102-27bb43830426.jpg",
+                "https://www.aelfriceden.com/cdn/shop/files/jpeg_21e7a61a-238f-4c18-8943-cf26aec2384a.jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bottom",
+      "subcategories": [
+        {
+          "name": "Pants",
+          "products": [
+            {
+              "id": 3,
+              "name": "Loose Basic Sweatpants",
+              "price": 55.00,
+              "images": [
+                "https://www.aelfriceden.com/cdn/shop/products/jpeg_9d737b17-3a04-4272-b7f5-00fc2215a1ee.jpg",
+                "https://www.aelfriceden.com/cdn/shop/files/4_97414bc9-505f-47fa-b8c9-6a7df26b11ea.jpg",
+                "https://www.aelfriceden.com/cdn/shop/files/jpeg_89b3b552-56ff-4b51-af71-21e16e8f7714.jpg",
+                "https://www.aelfriceden.com/cdn/shop/files/jpeg_6f4f91b7-c2dc-4cd9-a695-f715f55ffe62.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jeans",
+          "products": [
+            {
+              "id": 4,
+              "name": "Patchwork Washed Loose Jeans",
+              "price": 79.95,
+              "images": [
+                "https://www.aelfriceden.com/cdn/shop/files/1_2_22d764dd-f2f1-4cf5-bfdf-d30849d1ce36.jpg",
+                "https://www.aelfriceden.com/cdn/shop/files/3_2024-8-12_16934fac-d184-4534-8281-c3042a415a9e.jpg",
+                "https://www.aelfriceden.com/cdn/shop/files/1_1_c7cbf5c4-10e5-4740-ad06-ef28a149fd1e.jpg",
+                "https://www.aelfriceden.com/cdn/shop/files/1_3_a5030193-307f-469a-a065-4958a851d800.jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outerwear",
+      "subcategories": [
+        {
+          "name": "Racing Jackets",
+          "products": [
+            {
+              "id": 5,
+              "name": "BLACKAIR Motosports Jacket",
+              "price": 79.00,
+              "images": [
+                "https://www.aelfriceden.com/cdn/shop/files/pamehds_474114715_3193432077463553_1070097485253269882_n.jpg",
+                "https://www.aelfriceden.com/cdn/shop/files/lQLPJxbR4LSeq7nNBkDNBLCwofyFmGUO0wQDWO4VNwCqAA_1200_1600_webp_1ff78e42-6718-4c64-8b65-5c311fb90a72.jpg",
+                "https://www.aelfriceden.com/cdn/shop/files/2_cc3bb56d-4e07-45ff-9fb8-20c620f154ba.jpg",
+                "https://www.aelfriceden.com/cdn/shop/files/taylorrbondd_868a6c89-0b18-4b45-907d-e09c520b3506.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Racing Jackets",
+          "products": [
+            {
+              "id": 6,
+              "name": "Ruched Leather Jacket",
+              "price": 105.99,
+              "images": [
+                "https://www.aelfriceden.com/cdn/shop/files/11.21.jpg",
+                "https://www.aelfriceden.com/cdn/shop/files/2_2024-9-23_f22fe74c-e1c7-4bf5-8d42-2c94a778a85a.jpg",
+                "https://www.aelfriceden.com/cdn/shop/files/1_2024-9-23_701a8e2b-7408-4873-9fc2-51922534296c.jpg",
+                "https://www.aelfriceden.com/cdn/shop/files/1_2024-7-24_0cded204-1e46-46c6-bff2-d8d91934438a.jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
